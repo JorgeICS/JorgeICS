@@ -1,5 +1,7 @@
+<h1 align="center">Jorge Carrera</h1>
 
-# Jorge Carrera 👋
+<p align="center">
+Hi! I'm a Tecnologist 💻 based in CDMX
 
 <!--
 **JorgeICS/JorgeICS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
