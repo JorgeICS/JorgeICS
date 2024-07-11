@@ -1,5 +1,5 @@
-<h1 align="center">Jorge Carrera</h1><p align="center"> Hi!,
-## Hi there 👋
+
+# Jorge Carrera 👋
 
 <!--
 **JorgeICS/JorgeICS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
